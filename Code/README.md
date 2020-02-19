@@ -1,1 +1,1 @@
-
+Here you will find the code used to solve both coding challenges. The Mariners Challenge notebook is for coding challenge #1 and the Player Report notebook is for coding challenge #2. The model for the Mariners Challenge was tuned in the Mariners Machine Learning Model notebook as well. All code was done in Python, and a pdf version of all notebooks are also available.
